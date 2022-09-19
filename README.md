@@ -1,6 +1,4 @@
-<a target="_blank" href="https://www.facebook.com/xMarveL.10">
-  <img align="left" alt=My Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
-</a> 
+
 <a target="_blank" href="https://www.youtube.com/channel/UCfhInXKGVkbMg7-v6L_Lbgw">
   <img align="left" alt="My Youtube" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/1024px-YouTube_social_red_circle_%282017%29.svg.png" />
 </a>
